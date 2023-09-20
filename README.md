@@ -1,5 +1,5 @@
 The data set MUSHROOMS.csv is all about the some historical data to identify whether the Mushroom is a Poisonous or Non-Poisonous one. 
-Its a Suervised Classification problem with 23 columns including the label column. The data set was having more categorical text columns, which has been converted to numerical form by using LabelEncoder. 
+Its a Supervised Classification problem with 23 columns including the label column. The data set was having more categorical text columns, which has been converted to numerical form by using LabelEncoder. 
 Done with required EDA
 Finally there were 23 columns in the the Train dataset and 1 column in Test dataset.
 Data has been split into Train and Test before modelling.
